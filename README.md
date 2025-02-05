@@ -1,7 +1,7 @@
 # Text-Editor
 Text editor built using C, compiled in Linux Bash with GCC, using terminal as editor interface.
 
-This text editor is built based on this project: https://viewsourcecode.org/snaptoken/kilo/index.html. I built this project as a learnign experience on advanced terminal and memory manipulation with C. This project is probably the most complex one I've worked on to date, especially as it started to get past 300 lines, as it was hard to keep track of all the different functions and data that each function was managing, while only working on one or two functions at a time. Despite that, it was a very rewarding experience, as I find myself much more knowledgeable about what you can do with the terminal and how to manage memory in C. 
+This text editor is built based on this project: https://viewsourcecode.org/snaptoken/kilo/index.html. I built this project as a learning experience on advanced terminal and memory manipulation with C. This project is probably the most complex one I've worked on to date, especially as it started to get past 300 lines, as it was hard to keep track of all the different functions and data that each function was managing, while only working on one or two functions at a time. Despite that, it was a very rewarding experience, as I find myself much more knowledgeable about what you can do with the terminal and how to manage memory in C. 
 
 As for future changes, I still need to implement the recommended feature of syntax highlighting, as well as implement my own plans to move some of the code sections into separate files in order to better separate and manage them in my head. I'd also like to see if I can implement some sort of spellcheck feature, as well as undo/redo options. 
 
